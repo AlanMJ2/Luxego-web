@@ -15,6 +15,7 @@ Esto es la creacion de una pagina web de Luxego Rent Car, empresa que se dedica 
 
 # Cómo descargar el proyecto y visualizarlo en Visual Studio Code 📥
 1️⃣ Abre una terminal (GitBash, PowerShell )
+
 2️⃣ Ejecuta lo siguientes comandos
    
    ``` git clone https://github.com/AlanMJ2/Luxego-web ```
