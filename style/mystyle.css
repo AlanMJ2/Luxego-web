@@ -1689,6 +1689,13 @@ height: 30px;
        -o-transition-duration: 0.8s;
           transition-duration: 0.8s;
 }
+/* Reduce la altura de la imagen del carrusel */
+.img-reducida {
+    width: 100%;
+    /* CLAVE: Cambia este valor (400px) para ajustar la altura a tu gusto. */
+    height: 25px
+    object-fit: cover; /* Asegura que la imagen no se distorsione, llenando el espacio */
+	}
 
 
 
